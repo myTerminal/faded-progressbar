@@ -17,6 +17,8 @@
 
 A simple, light-weight and customizable progress bar for command-line applications
 
+![Demo](images/demo.gif)
+
 ## Features
 
 * Easy to use with only a few methods.
