@@ -41,7 +41,11 @@ var logUpdate = require("log-update"),
 
             updateProgress = function (ellapsedProgress) {
                 progress = ellapsedProgress || progress;
-                printProgress();
+                if (progress < processLength) {
+                    printProgress();
+                } else {
+                    end();
+                }
             },
 
             end = function () {
