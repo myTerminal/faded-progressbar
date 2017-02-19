@@ -1,11 +1,10 @@
 {
   "name": "faded-progressbar",
-  "version": "0.9.1",
+  "version": "0.9.2",
   "description": "A simple, light-weight and customizable progress bar for command-line applications",
   "main": "index.js",
   "scripts": {
     "install": "node installer.js",
-    "postinstall": "gulp",
     "develop": "gulp develop"
   },
   "repository": {
