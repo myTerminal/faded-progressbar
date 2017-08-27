@@ -28,10 +28,10 @@ var process = fadedProgressbar.newProcess("The same old thing", 15);
 process.start();
 
 var routine = function () {
-    if (progress <= 15) {
+    if (progress < 15) {
         console.log(messages[progress]);
-        process.updateProgress(progress);
         incrementProgess();
+        process.updateProgress(progress);
         setTimeout(routine, 200);
     }
 };
