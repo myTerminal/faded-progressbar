@@ -56,7 +56,7 @@ You can also enable the feature with the exact opposite method: `maskLogs()`.
     
 ## Dependencies
 
-* log-update
+* [log-update](https://www.npmjs.com/package/log-update)
 
 ## To-do
 
