@@ -4,7 +4,6 @@
 [![npm downloads](https://img.shields.io/npm/dt/faded-progressbar.svg)](https://www.npmjs.com/package/faded-progressbar)  
 [![Build Status](https://travis-ci.org/myTerminal/faded-progressbar.svg?branch=master)](https://travis-ci.org/myTerminal/faded-progressbar)
 [![Code Climate](https://codeclimate.com/github/myTerminal/faded-progressbar.png)](https://codeclimate.com/github/myTerminal/faded-progressbar)
-[![Package Quality](http://npm.packagequality.com/shield/faded-progressbar.svg)](http://packagequality.com/#?package=faded-progressbar)
 [![Coverage Status](https://img.shields.io/coveralls/myTerminal/faded-progressbar.svg)](https://coveralls.io/r/myTerminal/faded-progressbar?branch=master)
 [![bitHound Overall Score](https://www.bithound.io/github/myTerminal/faded-progressbar/badges/score.svg)](https://www.bithound.io/github/myTerminal/faded-progressbar)
 [![bitHound Code](https://www.bithound.io/github/myTerminal/faded-progressbar/badges/code.svg)](https://www.bithound.io/github/myTerminal/faded-progressbar)  
