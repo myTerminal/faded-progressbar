@@ -8,7 +8,7 @@
 [![Dependency Status](https://david-dm.org/myTerminal/faded-progressbar.svg)](https://david-dm.org/myTerminal/faded-progressbar)
 [![devDependency Status](https://david-dm.org/myTerminal/faded-progressbar/dev-status.svg)](https://david-dm.org/myTerminal/faded-progressbar#info=devDependencies)
 [![peer Dependency Status](https://david-dm.org/myTerminal/faded-progressbar/peer-status.svg)](https://david-dm.org/myTerminal/faded-progressbar#info=peerDependencies)  
-[![License](https://img.shields.io/badge/LICENSE-GPL%20v3.0-blue.svg)](https://www.gnu.org/licenses/gpl.html)  
+[![License](https://img.shields.io/github/license/myTerminal/ample-alerts.svg)](https://opensource.org/licenses/MIT)  
 [![NPM](https://nodei.co/npm/faded-progressbar.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/faded-progressbar/)
 
 A simple, light-weight and customizable progress bar for command-line applications
