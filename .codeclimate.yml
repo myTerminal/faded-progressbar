@@ -1,2 +1,6 @@
 languages:
   JavaScript: true
+exclude_paths:
+- "bin"
+- "example"
+- "gulpfile.js"
