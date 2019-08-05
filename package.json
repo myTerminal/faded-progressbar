@@ -19,7 +19,7 @@
     "progressbar"
   ],
   "author": "Mohammed Ismail Ansari <team.terminal@gmail.com>",
-  "license": "GPL-3.0",
+  "license": "MIT",
   "dependencies": {
     "log-update": "^2.1.0"
   },
