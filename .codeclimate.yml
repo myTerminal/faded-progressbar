@@ -3,4 +3,4 @@ languages:
 exclude_paths:
 - "bin"
 - "example"
-- "gulpfile.js"
+- "gulpfile.babel.js"

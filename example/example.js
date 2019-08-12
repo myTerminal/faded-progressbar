@@ -1,33 +1,36 @@
 /* global require setTimeout */
 
-var fadedProgressbar = require("faded-progressbar"),
-    progress = 0,
-    messages = [
-        "Starting up",
-        "Counting till ten!",
-        "Unpacking boxes",
-        "Separating out the good things",
-        "Making things tidy",
-        "Applying colors",
-        "Getting more stuff",
-        "Adding images",
-        "Applying good fonts",
-        "Brewing coffee!",
-        "Having a short nap",
-        "Waking up",
-        "Losing temper",
-        "Settling down",
-        "Packing things up"
-    ],
-    incrementProgess = function () {
-        progress++;
-    };
+const fadedProgressbar = require('../bin');
 
-var process = fadedProgressbar.newProcess("The same old thing", 15);
+let progress = 0;
+
+const messages = [
+    'Starting up',
+    'Counting till ten!',
+    'Unpacking boxes',
+    'Separating out the good things',
+    'Making things tidy',
+    'Applying colors',
+    'Getting more stuff',
+    'Adding images',
+    'Applying good fonts',
+    'Brewing coffee!',
+    'Having a short nap',
+    'Waking up',
+    'Losing temper',
+    'Settling down',
+    'Packing things up'
+];
+
+const incrementProgess = () => {
+    progress++;
+};
+
+const process = fadedProgressbar.newProcess('The same old thing', 15);
 
 process.start();
 
-var routine = function () {
+const routine = () => {
     if (progress < 15) {
         console.log(messages[progress]);
         incrementProgess();

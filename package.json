@@ -1,11 +1,10 @@
 {
   "name": "faded-progressbar",
-  "version": "0.9.4",
+  "version": "0.9.5",
   "description": "A simple, light-weight and customizable progress bar for command-line applications",
-  "main": "index.js",
+  "bin": "bin/index.js",
   "scripts": {
-    "gulp": "gulp",
-    "develop": "gulp develop"
+    "gulp": "gulp"
   },
   "repository": {
     "type": "git",
@@ -21,14 +20,21 @@
   "author": "Mohammed Ismail Ansari <team.terminal@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "log-update": "^2.1.0"
+    "log-update": "2.1.0"
   },
   "devDependencies": {
-    "babel-core": "6.26.0",
-    "babel-preset-env": "1.6.1",
-    "gulp": "3.9.1",
-    "gulp-babel": "7.0.0",
-    "gulp-uglify": "3.0.0",
-    "gulp-watch-now": "0.9.1"
+    "babel-core": "6.26.3",
+    "babel-eslint": "10.0.1",
+    "babel-preset-env": "1.7.0",
+    "del": "3.0.0",
+    "eslint-config-airbnb": "17.1.0",
+    "eslint-plugin-import": "2.16.0",
+    "eslint-plugin-jsx-a11y": "6.2.0",
+    "eslint-plugin-react": "7.12.4",
+    "gulp": "4.0.0",
+    "gulp-babel": "7.0.1",
+    "gulp-eslint": "5.0.0",
+    "gulp-sourcemaps": "2.6.4",
+    "gulp-uglify": "3.0.1"
   }
 }
