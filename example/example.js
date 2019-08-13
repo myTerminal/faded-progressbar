@@ -1,6 +1,6 @@
 /* global require setTimeout */
 
-const fadedProgressbar = require('../bin');
+const fadedProgressbar = require('../build');
 
 let progress = 0;
 

@@ -1,7 +1,7 @@
 /* global require */
 
 const sourceDir = 'src',
-    outputDir = 'bin';
+    outputDir = 'build';
 
 const gulp = require('gulp'),
     del = require('del'),
