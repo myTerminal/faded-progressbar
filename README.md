@@ -50,10 +50,6 @@ Once turned off, you would be able to use the default `console.log()` again. Thi
 
 You can also enable the feature with the exact opposite method: `maskLogs()`.
     
-## Dependencies
-
-* [log-update](https://www.npmjs.com/package/log-update)
-
 ## To-do
 
 * Customizable progress bar character
