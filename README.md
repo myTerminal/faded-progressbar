@@ -4,6 +4,7 @@
 [![npm downloads](https://img.shields.io/npm/dt/faded-progressbar.svg)](https://www.npmjs.com/package/faded-progressbar)  
 [![Build Status](https://travis-ci.org/myTerminal/faded-progressbar.svg?branch=master)](https://travis-ci.org/myTerminal/faded-progressbar)
 [![Code Climate](https://codeclimate.com/github/myTerminal/faded-progressbar.png)](https://codeclimate.com/github/myTerminal/faded-progressbar)
+[![js-myterminal-style](https://img.shields.io/badge/code%20style-myterminal-blue.svg)](https://www.npmjs.com/package/eslint-config/myterminal)
 [![Coverage Status](https://img.shields.io/coveralls/myTerminal/faded-progressbar.svg)](https://coveralls.io/r/myTerminal/faded-progressbar?branch=master)  
 [![Dependency Status](https://david-dm.org/myTerminal/faded-progressbar.svg)](https://david-dm.org/myTerminal/faded-progressbar)
 [![devDependency Status](https://david-dm.org/myTerminal/faded-progressbar/dev-status.svg)](https://david-dm.org/myTerminal/faded-progressbar#info=devDependencies)

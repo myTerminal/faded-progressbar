@@ -4,4 +4,4 @@ languages:
 exclude_patterns:
 - "build"
 - "example"
-- "gulpfile.babel.js"
+- "gulpfile.js"
