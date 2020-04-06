@@ -3,6 +3,9 @@
   "version": "0.9.8",
   "description": "A simple, light-weight and customizable progress bar for command-line applications",
   "main": "build/index.js",
+  "files": [
+    "/build"
+  ],
   "scripts": {
     "gulp": "gulp"
   },
