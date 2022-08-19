@@ -1,6 +1,6 @@
 {
   "name": "faded-progressbar",
-  "version": "0.9.8",
+  "version": "0.9.9",
   "description": "A simple, light-weight and customizable progress bar for command-line applications",
   "main": "build/index.js",
   "files": [
